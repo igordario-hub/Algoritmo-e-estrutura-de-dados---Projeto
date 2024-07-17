@@ -1,4 +1,4 @@
-<h1>Algoritmos-e-Estrutura-de-Dados :technologist:</h1>
+<h1>Algoritmos-e-Estrutura-de-Dados </h1>
 <br/>
 <p>Projeto de Algortimos do curso de Sistemas de Informação UFPE</p>
 <h3>Objetivo do projeto:</h3>
